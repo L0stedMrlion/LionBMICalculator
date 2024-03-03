@@ -1,6 +1,6 @@
 {
-  "name": "lionbmicalculator",
-  "version": "0.1.0",
+  "name": "LionBMICalculator",
+  "version": "none",
   "private": true,
   "scripts": {
     "dev": "next dev",

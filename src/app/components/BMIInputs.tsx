@@ -1,5 +1,5 @@
 import React from "react";
-import { RiMailFill } from "react-icons/ri";
+import { RiMailFill, RiReactjsLine } from "react-icons/ri";
 
 const BMIInputs = () => {
   return (
