@@ -4,7 +4,7 @@ import { RiCalculatorFill } from "react-icons/ri";
 
 export function Navbar() {
   return (
-    <nav className="flex justify-between lg:justify-around items-center py-5 px-4 lg:px-0">
+    <nav className="flex justify-between lg:justify-around py-8 px-4 lg:px-0">
       <h3
         className={twMerge(
           "p-2",
@@ -14,7 +14,7 @@ export function Navbar() {
         )}
       >
         <RiCalculatorFill className="mr-2" />
-        <span className="lg:ml-0.6">LionBMICalculator</span>{" "}
+        <span>LionBMICalculator</span>
       </h3>
     </nav>
   );
