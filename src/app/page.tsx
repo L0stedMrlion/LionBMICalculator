@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <Navbar />
-      <div className="mx-auto max-w-md p-6 rounded-lg shadow-md">
+      <div className="mx-auto max-w-md p-7 shadow-md">
         <BMIInputs />
       </div>
     </main>

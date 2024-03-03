@@ -10,7 +10,7 @@ export function Navbar() {
           "p-2",
           "text-white font-bold text-xl flex items-center",
           "transition-colors duration-200",
-          "hover:text-yellow-600 hover:cursor-pointer"
+          "hover:text-yellow-500 hover:cursor-pointer"
         )}
       >
         <RiCalculatorFill className="mr-2" />
